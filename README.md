@@ -7,6 +7,7 @@ This plugin can be used in order to set a background slideshow in the background
 backgroundSlideshow's constructor method takes an option hash parameter.
 
 Defaults are :
+
 ```javascript
 {
 	data: [],
