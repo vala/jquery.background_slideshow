@@ -1,4 +1,4 @@
-# jquery.backgroundSlideshow
+# JQuery Background Slideshow
 
 This plugin can be used in order to set a background slideshow in the background of a 100% width & height body
 
@@ -25,8 +25,8 @@ $('body')
 			'/path/to/image1.jpg',
 			'/path/to/image2.jpg'
 		],
-		timer_delay: 5000,
-		fade_time: 3000
+		timer_delay: 4000,
+		fade_time: 2000
 	});
 ```
 
